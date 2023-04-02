@@ -16,7 +16,7 @@ import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
-@Schema
+@Schema(example="email@gmail.com")
 @Entity
 @Table(name = "tb_usuario")
 public class Usuario {
