@@ -72,8 +72,6 @@
 	      <version>1.6.9</version>
 		</dependency>
 		
-		
-		
 	</dependencies>
 	<build>
 		<plugins>
